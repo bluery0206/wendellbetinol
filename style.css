@@ -1,7 +1,14 @@
+
+@font-face {
+    font-family: AirstreamNF;
+    src: url('fonts/AirstreamNF.ttf');
+}
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: AirstreamNF;
 }
 
 nav {
